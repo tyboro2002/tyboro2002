@@ -2,16 +2,16 @@
 <h3 align="center">A passionate student developer</h3>
 
 <div align="center">
-  <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+  <img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyboro2002&label=Profile%20views&color=0e75b6&style=flat" alt="tyboro2002" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=tyboro2002&label=Profile%20views&color=0e75b6&style=flat" alt="tyboro2002" /> </p>
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyboro2002&theme=onedark" alt="tyboro2002" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyboro2002&theme=onedark" alt="tyboro2002" /></a> </p>
 
   - 🔭 I’m currently working on [chessFish](https://github.com/tyboro2002/chessFishCPP)
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
+  <h3 align="center">Connect with me:</h3>
+  <p align="center">
   <a href="https://dev.to/tyboro2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tyboro2002" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/tybo-verslype-a7415920a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tybo verslype" height="30" width="40" /></a>
   </p>
