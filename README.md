@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyboro2002&label=Profile%20views&color=0e75b6&style=flat" alt="tyboro2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyboro2002" alt="tyboro2002" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyboro2002&theme=onedark" alt="tyboro2002" /></a> </p>
 
 - 🔭 I’m currently working on [chessFish](https://github.com/tyboro2002/chessFishCPP)
 
