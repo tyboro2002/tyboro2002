@@ -1,5 +1,3 @@
-[![@verslypetybo's Holopin board](https://holopin.me/verslypetybo)](https://holopin.io/@verslypetybo)
-
 <h1 align="center">Hi 👋, I'm Tybo Verslype</h1>
 <h3 align="center">A passionate student developer</h3>
 
@@ -22,6 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyboro2002&show_icons=true&locale=en" alt="tyboro2002" /></p>
 
+[![@verslypetybo's Holopin board](https://holopin.me/verslypetybo)](https://holopin.io/@verslypetybo)
 <!--
 **tyboro2002/tyboro2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
